@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leabeck87
 - 👀 I’m interested in civic code.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on OSINT, financial automation, updating civic software.
 - 📫 How to reach me ...
 
 <!---
